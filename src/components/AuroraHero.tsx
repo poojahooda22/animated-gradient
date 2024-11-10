@@ -3,6 +3,8 @@ import { motion, useMotionTemplate, useMotionValue, animate } from 'framer-motio
 import { useEffect } from 'react';
 import HeroText from './HeroText';
 import { FaArrowRightLong } from "react-icons/fa6";
+import { Stars } from "@react-three/drei";
+import { Canvas } from "@react-three/fiber";
 
 const COLORS = ["#13ffaa", "#1e67c6", "#ce84cf", "#dd335c"];
 
@@ -42,7 +44,7 @@ const AuroraHero = () => {
                 />
             </motion.div>
             
-            {/* <div className='absolute w-full h-full top-0 left-0 z-0'>
+            <div className='absolute w-full h-full top-0 left-0 z-0'>
                 <Canvas>
                     <Stars
                         radius={100}
@@ -53,7 +55,7 @@ const AuroraHero = () => {
                         fade
                     />
                 </Canvas>
-            </div> */}
+            </div>
         </motion.section>
     )
 }
