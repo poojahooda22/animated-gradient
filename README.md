@@ -12,7 +12,7 @@ If you are developing a production application, we recommend up
 - Configure the top-level `parserOptions` property like this
 ```js
 export default tseslint.config(
-  languageOptions: {
+  languageOptions: 
     // other options...
     parserOptions: {
       project: ['./tsconfig.node.json', './tsconfig.app.json']
