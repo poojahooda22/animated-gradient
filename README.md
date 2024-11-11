@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend up
 - Configure the top-level `parserOptions` property like thi
 ```js
-export default tseslint.config
+export default tseslint.confi
   languageOptions:
     // other options..
     parserOptions: {
