@@ -16,7 +16,7 @@ export default tseslint.confi
     // other options..
     parserOptions: 
       project: ['./tsconfig.node.json', './tscon
-      tsconfigRootDir: import.meta.dirna
+      tsconfigRootDir: import.meta.dirn
     },
   },
 })
