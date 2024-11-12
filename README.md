@@ -14,7 +14,7 @@ If you are developing a production application, we recommend u
 export default tseslint.confi
   languageOptions:
     // other options..
-    parserOptions: {
+    parserOptions: 
       project: ['./tsconfig.node.json', './tsconfig.app
       tsconfigRootDir: import.meta.dirna
     },
