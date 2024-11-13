@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 If you are developing a production application, we recom
-- Configure the top-level `parserOptions` property
+- Configure the top-level `parserOptions` propert
 ``
 export default tseslint.confi
   languageOptions
