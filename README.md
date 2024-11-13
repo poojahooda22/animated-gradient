@@ -13,7 +13,7 @@ If you are developing a production application, we recom
 ``
 export default tseslint.confi
   languageOptions
-    // other options..
+    // other options.
     parserOptions: 
       project: ['./tsconfig.node.json', 
       tsconfigRootDir: import.meta.dir
