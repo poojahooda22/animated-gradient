@@ -19,7 +19,7 @@ export default tseslint.confi
       tsconfigRootDir: import.meta.dir
     },
   },
-})
+
 ```
 
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strict
