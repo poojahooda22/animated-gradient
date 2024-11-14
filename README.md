@@ -16,7 +16,7 @@ export default tseslint.confi
     parserOptions:
       project: ['./tsconfig.no
       tsconfigRootDir: 
-    
+  
   },
 
 ```
