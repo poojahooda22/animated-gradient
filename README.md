@@ -13,7 +13,7 @@ export default tseslint.conf
   languageOpti
     // other options.
     parserOptions:
-      project: ['./tsco
+      project: ['./tsc
       tsconfigRootDi
 
   },
