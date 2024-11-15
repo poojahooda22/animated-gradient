@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 If you are developing a production applica
 - Configure the top-level `parserOpti
 export default tseslint.conf
-  languageOption
+  languageOptio
     // other options.
     parserOptions:
       project: ['./tsco
