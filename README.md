@@ -11,7 +11,7 @@ If you are developing a production applica
 - Configure the top-level `parserOpti
 export default tseslint.conf
   languageOpti
-    // other options.
+    // other options
     parserOptions
       project: ['./tsc
       tsconfigRootD
