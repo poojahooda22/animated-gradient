@@ -17,7 +17,6 @@ export default tseslint.co
       tsconfigRoot
 
   },
-
 ```
 
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `
