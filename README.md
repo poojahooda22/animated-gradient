@@ -12,7 +12,7 @@ If you are developing a production applica
 export default tseslint.conf
   languageOpti
     // other options.
-    parserOptions:
+    parserOptions
       project: ['./tsc
       tsconfigRootDi
 
