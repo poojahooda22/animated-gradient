@@ -15,7 +15,7 @@ export default tseslint.confi
     parserOptions:
       project: ['./tscon
       tsconfigRootDi
-  
+
   },
 
 ```
