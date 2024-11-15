@@ -16,7 +16,7 @@ export default tseslint.co
       project: ['./tsc
       tsconfigRoot
 
-  },
+  }
 ```
 
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `
