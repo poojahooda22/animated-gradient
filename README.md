@@ -24,7 +24,7 @@ export default tseslint.co
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-reac
 ```j
 // eslint.config.j
-import react from 'eslint-plugin-react
+import react from 'eslint-plugin-reac
 
 export default tseslint.config({
   // Set the react version
