@@ -14,7 +14,7 @@ export default tseslint.co
     // other options
     parserOptions
       project: ['./tsc
-      tsconfigRoo
+      tsconfigRo
 
   }
 ```
