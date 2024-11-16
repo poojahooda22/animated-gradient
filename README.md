@@ -18,7 +18,6 @@ export default tseslint.co
 
   }
 ```
-
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recom
 - Optionally add `...tseslint.configs.stylisticType
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/
