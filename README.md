@@ -18,7 +18,7 @@ export default tseslint.co
 
   }
 ```
-- Optionally add `...tseslint.configs.stylisticTy
+- Optionally add `...tseslint.configs.stylisticT
 - Install [eslint-plugin-react](https://github
 // eslint.config.
 import react from 'eslint-plugin-re
