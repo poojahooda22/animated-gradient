@@ -25,7 +25,7 @@ import react from 'eslint-plugin-re
 
 export default tseslint.config
   // Set the react vers
-  settings: { react: { version: '18.3' } 
+  settings: { react: { version: '18.3' }
   plugins: {
     // Add the react plugin
     react,
