@@ -18,7 +18,7 @@ export default tseslint.co
 
   }
 ``
-- Optionally add `...tseslint.configs.styli
+- Optionally add `...tseslint.configs.styl
 - Install [eslint-plugin-react](https:/
 // eslint.confi
 import react from 'eslint-plugin-re
