@@ -22,7 +22,7 @@ export default tseslint.co
 - Install [eslint-plugin-react](https://github.
 // eslint.config.
 import react from 'eslint-plugin-re
-export default tseslint.config
+export default tseslint.confi
   // Set the react vers
   settings: { react: { version: '18.3'
   plugins: {
