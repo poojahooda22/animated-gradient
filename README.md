@@ -23,7 +23,7 @@ export default tseslint.c
 import react from 'eslint-plugin-re
 export default tseslint.confi
   // Set the react vers
-  settings: { react: { version: '18
+  settings: { react: { version: '1
   plugins: {
     // Add the react plugi
     react,
