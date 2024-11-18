@@ -15,7 +15,6 @@ export default tseslint.c
     parserOptions
       project: ['./tsc
       tsconfi
-
   }
 ``
 - Optionally add `...tseslint.configs
