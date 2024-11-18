@@ -17,7 +17,7 @@ export default tseslint.c
       tsconfi
   }
 ``
-- Optionally add `...tseslint.configs
+- Optionally add `...tseslint.config
 - Install [eslint-plugin-react](
 // eslint.confi
 import react from 'eslint-plugin-
