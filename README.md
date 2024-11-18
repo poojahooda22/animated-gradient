@@ -11,7 +11,7 @@ If you are developing a production applic
 - Configure the top-level `parserOp
 export default tseslint.c
   languageOpt
-    // other options
+    // other option
     parserOption
       project: ['./ts
       tsconfi
