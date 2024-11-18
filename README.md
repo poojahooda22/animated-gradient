@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/)
 
 ## Expanding the ESLint configuratio
-If you are developing a production applic
+If you are developing a production appli
 - Configure the top-level `parserOp
 export default tseslint.c
   languageOpt
