@@ -12,7 +12,7 @@ If you are developing a production applic
 export default tseslint.c
   languageOpt
     // other options
-    parserOptions
+    parserOption
       project: ['./ts
       tsconfi
   }
