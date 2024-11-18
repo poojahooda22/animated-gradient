@@ -14,7 +14,7 @@ export default tseslint.c
     // other option
     parserOption
       project: ['./ts
-      tsconfi
+      tsconf
   }
 ``
 - Optionally add `...tseslint.config
