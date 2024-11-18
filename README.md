@@ -18,7 +18,7 @@ export default tseslint.c
   }
 ``
 - Optionally add `...tseslint.configs
-- Install [eslint-plugin-react](htt
+- Install [eslint-plugin-react](ht
 // eslint.confi
 import react from 'eslint-plugin-re
 export default tseslint.confi
