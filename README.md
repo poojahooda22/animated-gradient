@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configurati
 If you are developing a production appli
-export default tseslint.c
+export default tseslint.
   languageOpt
     // other optio
     parserOptio
