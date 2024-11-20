@@ -24,7 +24,7 @@ export default tseslint.conf
   // Set the react v
   settings: { react: { versi
   plugins: 
-    // Add the react plu
+    // Add the react pl
     react,
   },
   rules: 
