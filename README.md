@@ -12,7 +12,7 @@ export default tseslint.
   languageOpt
     // other optio
     parserOpti
-      project: 
+      project:
       t
   }
 ``
