@@ -24,7 +24,7 @@ export default tseslint.confi
   // Set the react ver
   settings: { react: { version
   plugins: 
-    // Add the react plug
+    // Add the react plu
     react,
   },
   rules: 
