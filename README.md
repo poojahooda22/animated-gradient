@@ -23,7 +23,7 @@ import react from 'eslint-plugin
 export default tseslint.conf
   // Set the react v
   settings: { react: { versi
-  plugins: 
+  plugins:
     // Add the react pl
     react
   },
