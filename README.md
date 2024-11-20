@@ -11,7 +11,7 @@ If you are developing a production appli
 export default tseslint.
   languageOpt
     // other optio
-    parserOptio
+    parserOpti
       project: 
       t
   }
