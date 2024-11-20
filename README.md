@@ -24,7 +24,7 @@ export default tseslint.
   // Set the react v
   settings: { react: { vers
   plugins:
-    // Add the react pl
+    // Add the react p
     react
   },
   rules: 
