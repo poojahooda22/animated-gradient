@@ -13,7 +13,7 @@ export default tseslint.c
     // other optio
     parserOptio
       project: ['.
-      tsco
+      tsc
   }
 ``
 - Optionally add `...tseslint.conf
