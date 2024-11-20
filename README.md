@@ -21,7 +21,7 @@ export default tseslint.c
 // eslint.confi
 import react from 'eslint-plugin
 export default tseslint.conf
-  // Set the react ve
+  // Set the react v
   settings: { react: { versi
   plugins: 
     // Add the react plu
