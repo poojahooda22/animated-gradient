@@ -12,7 +12,7 @@ export default tseslint.c
   languageOpt
     // other optio
     parserOptio
-      project: ['.
+      project: ['
       tsc
   }
 ``
