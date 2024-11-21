@@ -17,7 +17,7 @@ export default tseslint.
   }
 ``
 - Optionally add `...tsesli
-- Install [eslint-plugin
+- Install [eslint-plugi
 // eslint.co
 import react from 'eslint
 export default tseslint.
