@@ -15,7 +15,7 @@ export default tseslint.
       project:
       t
   }
-``
+
 - Install [eslint-pl
 // eslint
 import react f
