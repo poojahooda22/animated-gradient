@@ -17,7 +17,7 @@ export default tseslint.
   }
 ``
 - Install [eslint-pl
-// eslint.c
+// eslint
 import react f
 export default
   // Set the react v
