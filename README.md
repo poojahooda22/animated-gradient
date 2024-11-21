@@ -13,8 +13,6 @@ export default tseslin
     // other opti
     parser
       project:
-
-
 - Install [eslint-pl
 // esli
 import react
