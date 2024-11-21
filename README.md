@@ -15,7 +15,7 @@ export default tseslin
       projec
 - Install [eslint-pl
 // esli
-import rea
+import re
 export d
   // Set the react
   settings: { react: {
