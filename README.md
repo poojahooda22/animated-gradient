@@ -19,7 +19,7 @@ export default tseslint.
 - Install [eslint-pl
 // eslint.c
 import react f
-export default t
+export default
   // Set the react v
   settings: { react: {
   plugins
