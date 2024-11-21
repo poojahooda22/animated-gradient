@@ -16,7 +16,7 @@ export default tseslin
 
 
 - Install [eslint-pl
-// eslint
+// esli
 import react
 export d
   // Set the react
