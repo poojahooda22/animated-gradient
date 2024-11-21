@@ -19,7 +19,7 @@ import react
 export d
   // Set the react
   settings: { react: {
-  plugins
+  plugi
     // Add the react p
     react
   },
