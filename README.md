@@ -21,7 +21,7 @@ export default tseslint.
 import react f
 export default t
   // Set the react v
-  settings: { react: { v
+  settings: { react: {
   plugins
     // Add the react p
     react
