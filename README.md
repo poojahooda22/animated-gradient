@@ -20,7 +20,7 @@ export default tseslint.
 // eslint
 import react f
 export defau
-  // Set the react v
+  // Set the react
   settings: { react: {
   plugins
     // Add the react p
