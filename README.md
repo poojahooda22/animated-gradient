@@ -13,7 +13,7 @@ export default tseslin
     // other opti
     parser
       project:
-      t
+
 
 - Install [eslint-pl
 // eslint
