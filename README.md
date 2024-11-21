@@ -19,7 +19,7 @@ export default tseslint.
 - Optionally add `...tsesli
 - Install [eslint-plugi
 // eslint.co
-import react from 'eslint
+import react from 'eslin
 export default tseslint.
   // Set the react v
   settings: { react: { ver
