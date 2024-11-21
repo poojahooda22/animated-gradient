@@ -19,7 +19,7 @@ import re
 export
   // Set the react
   settings: { react: {
-  plu
+  pl
     // Add the react p
     react
   },
