@@ -13,7 +13,7 @@ export default tseslin
     // other opti
     parser
       projec
-- Install [eslint-pl
+- Install [eslint-p
 // esli
 import re
 export
