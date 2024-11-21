@@ -18,7 +18,7 @@ export default tseslint.
 ``
 - Install [eslint-pl
 // eslint.c
-import react fro
+import react f
 export default tse
   // Set the react v
   settings: { react: { v
