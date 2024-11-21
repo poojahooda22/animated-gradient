@@ -12,7 +12,7 @@ export default tseslin
   languageOpt
     // other opti
     parser
-      project:
+      projec
 - Install [eslint-pl
 // esli
 import rea
