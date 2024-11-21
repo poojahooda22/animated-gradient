@@ -21,7 +21,7 @@ export default tseslint.
 import react fro
 export default tse
   // Set the react v
-  settings: { react: { ve
+  settings: { react: { v
   plugins
     // Add the react p
     react
