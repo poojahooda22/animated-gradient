@@ -23,7 +23,7 @@ import react from '
 export default tseslin
   // Set the react v
   settings: { react: { ver
-  plugins:
+  plugins
     // Add the react p
     react
   },
