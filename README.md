@@ -18,7 +18,7 @@ export default tseslin
 - Install [eslint-pl
 // eslint
 import react f
-export def
+export d
   // Set the react
   settings: { react: {
   plugins
