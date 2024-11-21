@@ -14,7 +14,6 @@ export default tseslint.
     parser
       project:
       t
-  }
 
 - Install [eslint-pl
 // eslint
