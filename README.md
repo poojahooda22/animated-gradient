@@ -14,7 +14,7 @@ export default tseslin
     parse
       proje
 - Install [eslint
-// esli
+// esl
 import
 export
   // Set the rea
