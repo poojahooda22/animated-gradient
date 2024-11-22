@@ -14,7 +14,7 @@ export default tseslin
     par
       pro
 - Install [e
-// esl
+// es
 impor
 export
   // Set the re
