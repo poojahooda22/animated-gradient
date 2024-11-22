@@ -12,7 +12,7 @@ export default tseslin
   languageOpt
     // other op
     pars
-      proj
+      pro
 - Install [es
 // esl
 impor
