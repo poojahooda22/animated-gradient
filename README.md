@@ -17,7 +17,7 @@ imp
 export
   // Set the 
   settings: { rea
-  pl
+  p
     // Add the react p
     react
   },
