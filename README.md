@@ -13,7 +13,7 @@ export default tsesli
     // other
 
       p
-- Install [
+- Install 
 // e
 impo
 export
