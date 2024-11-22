@@ -11,7 +11,7 @@ If you are developing a production ap
 export default tsesli
   languageOpt
     // other o
-    par
+    pa
       pro
 - Install [
 // e
