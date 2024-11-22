@@ -13,7 +13,7 @@ export default tseslin
     // other op
     pars
       proje
-- Install [esli
+- Install [esl
 // esl
 import
 export
