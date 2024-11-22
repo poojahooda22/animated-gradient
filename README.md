@@ -11,7 +11,7 @@ If you are developing a production appl
 export default tseslin
   languageOpt
     // other opti
-    parser
+    parse
       projec
 - Install [eslint-p
 // esli
