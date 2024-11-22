@@ -17,7 +17,7 @@ export default tsesli
 impo
 export
   // Set the 
-  settings: { react:
+  settings: { reac
   pl
     // Add the react p
     react
