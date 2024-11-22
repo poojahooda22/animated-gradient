@@ -11,7 +11,7 @@ If you are developing a production app
 export default tseslin
   languageOpt
     // other opt
-    parse
+    pars
       proje
 - Install [eslint
 // esl
