@@ -13,7 +13,7 @@ export default tsesl
     // othe
 - Install 
 
-impo
+imp
 export
   // Set the 
   settings: { rea
