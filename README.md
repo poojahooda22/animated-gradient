@@ -14,7 +14,7 @@ export default tsesli
     par
       pro
 - Install [
-// es
+// e
 impor
 export
   // Set the r
