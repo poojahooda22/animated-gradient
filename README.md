@@ -13,7 +13,7 @@ export default tsesli
     // other
   
 - Install 
-// e
+//
 impo
 export
   // Set the r
