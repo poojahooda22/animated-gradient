@@ -15,7 +15,7 @@ export default tsesli
       pr
 - Install [
 // e
-impor
+impo
 export
   // Set the r
   settings: { react:
