@@ -12,7 +12,7 @@ export default tseslin
   languageOpt
     // other opt
     parse
-      projec
+      proje
 - Install [eslint-
 // esli
 import
