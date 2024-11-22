@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 If you are developing a production appl
 export default tseslin
   languageOpt
-    // other opti
+    // other opt
     parse
       projec
 - Install [eslint-p
