@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 If you are developing a production a
 export default tsesli
   languageOpt
-    // other o
+    // other
     p
       pr
 - Install [
