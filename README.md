@@ -11,7 +11,7 @@ If you are developing a production app
 export default tseslin
   languageOpt
     // other op
-    pars
+    par
       pro
 - Install [e
 // esl
