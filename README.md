@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 If you are developing a production app
 export default tseslin
   languageOpt
-    // other opt
+    // other op
     pars
       proje
 - Install [eslin
