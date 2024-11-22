@@ -17,7 +17,7 @@ export default tseslin
 // esl
 import
 export
-  // Set the rea
+  // Set the re
   settings: { react:
   pl
     // Add the react p
