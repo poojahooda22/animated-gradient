@@ -13,7 +13,7 @@ export default tseslin
     // other op
     par
       pro
-- Install [e
+- Install [
 // es
 impor
 export
