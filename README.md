@@ -12,7 +12,7 @@ export default tsesli
   languageOpt
     // other
     p
-      pr
+      p
 - Install [
 // e
 impo
