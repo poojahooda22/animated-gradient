@@ -15,7 +15,7 @@ export default tseslin
       proj
 - Install [es
 // esl
-import
+impor
 export
   // Set the re
   settings: { react:
