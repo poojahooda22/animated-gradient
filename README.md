@@ -12,7 +12,7 @@ export default tsesl
   languageOpt
     // othe
 - Install
-imp
+im
 export
   // Set the 
   settings: { re
