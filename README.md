@@ -16,7 +16,7 @@ export default tsesl
 imp
 export
   // Set the 
-  settings: { rea
+  settings: { re
   p
     // Add the react 
     react
