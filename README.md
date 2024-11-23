@@ -23,7 +23,7 @@ expor
     // other rules...
     // Enable its recommended rul
     ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime']
+    ...react.configs['jsx-runtime'
   },
 })
 ```
