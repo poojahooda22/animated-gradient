@@ -13,7 +13,7 @@ export default tsesl
     // oth
 - Install
 expo
-  // Set th
+  // Set t
   settings
   p
     // Add the 
