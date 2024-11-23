@@ -17,7 +17,7 @@ expo
   setting
     // Ad
   ru
-    // other rules...
+    // other rules..
     // Enable its recommended rul
     ...react.configs.recommended.rul
     ...react.configs['jsx-runtime'
