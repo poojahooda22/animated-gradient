@@ -15,7 +15,7 @@ export default tsesl
 expo
   // Set t
   setting
-  p
+  
     // Add th
 
   rules
