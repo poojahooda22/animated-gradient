@@ -16,7 +16,7 @@ expo
   // Set 
   setting
     // Ad
-  ru
+  r
     // other rules..
     // Enable its recommended rul
     ...react.configs.recommended.rul
