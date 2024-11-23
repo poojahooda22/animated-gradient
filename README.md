@@ -12,7 +12,7 @@ export default tsesl
   languageOpt
     // oth
 - Install
-expor
+expo
   // Set th
   settings
   p
