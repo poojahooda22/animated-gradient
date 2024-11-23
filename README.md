@@ -14,7 +14,7 @@ export default tsesl
 - Install
 
 export
-  // Set the 
+  // Set the
   settings: { r
   p
     // Add the react 
