@@ -18,7 +18,7 @@ expor
   p
     // Add the re
 
-  
+
   rules
     // other rules...
     // Enable its recommended rules
