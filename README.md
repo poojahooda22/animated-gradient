@@ -17,7 +17,7 @@ expor
   settings:
   p
     // Add the re
-    reac
+    rea
   },
   rules: 
     // other rules...
