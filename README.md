@@ -12,7 +12,6 @@ export default tsesl
   languageOpt
     // oth
 - Install
-
 export
   // Set the
   settings: { r
