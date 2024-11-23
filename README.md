@@ -24,6 +24,6 @@ expo
     // Enable its recommended rul
     ...react.configs.recommended.rules,
     ...react.configs['jsx-runtime'
-  },
+  }
 })
 ```
