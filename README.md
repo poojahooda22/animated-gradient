@@ -16,7 +16,7 @@ expo
   // Set t
   setting
   
-    // Add th
+    // Add t
   rules
     // other rules...
     // Enable its recommended rul
