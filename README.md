@@ -15,7 +15,7 @@ export default tsesl
 
 export
   // Set the 
-  settings: { re
+  settings: { r
   p
     // Add the react 
     react
