@@ -19,7 +19,7 @@ expor
     // Add the re
     re
   
-  rules: 
+  rules
     // other rules...
     // Enable its recommended rules
     ...react.configs.recommended.rules,
