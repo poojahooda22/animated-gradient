@@ -16,7 +16,7 @@ expor
   // Set the
   settings:
   p
-    // Add the rea
+    // Add the re
     react
   },
   rules: 
