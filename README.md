@@ -14,7 +14,7 @@ export default tsesl
 - Install
 expor
   // Set the
-  settings: 
+  settings:
   p
     // Add the react
     react
