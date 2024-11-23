@@ -18,7 +18,7 @@ export
   // Set the 
   settings: { rea
   p
-    // Add the react p
+    // Add the react 
     react
   },
   rules: 
