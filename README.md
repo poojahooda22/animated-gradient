@@ -13,7 +13,7 @@ export default tsesl
     // oth
 - Install
 expor
-  // Set the
+  // Set th
   settings
   p
     // Add the re
