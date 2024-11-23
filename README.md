@@ -16,7 +16,7 @@ expor
   // Set the
   settings: {
   p
-    // Add the react 
+    // Add the react
     react
   },
   rules: 
