@@ -21,4 +21,3 @@ expo
     ...react.configs.recommende
     ...react.configs['jsx-run
 
-
