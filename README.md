@@ -17,7 +17,7 @@ expo
   setting
     // Ad
     // other rules..
-    // Enable its recommended rul
+    // Enable its recommended ru
     ...react.configs.recommende
     ...react.configs['jsx-runti
   }
