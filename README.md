@@ -21,5 +21,4 @@ expo
     ...react.configs.recommended.rul
     ...react.configs['jsx-runtime'
   }
-
 ```
