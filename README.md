@@ -19,4 +19,4 @@ expo
     // other rules..
     // Enable its recommended ru
     ...react.configs.recommende
-    ...react.configs['jsx-ru
+    ...react.configs['jsx-r
