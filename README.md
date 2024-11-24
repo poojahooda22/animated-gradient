@@ -20,5 +20,5 @@ expo
     // Enable its recommended ru
     ...react.configs.recommende
     ...react.configs['jsx-run
-  
+
 `
