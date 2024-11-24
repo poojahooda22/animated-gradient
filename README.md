@@ -14,7 +14,7 @@ export default tsesl
 - Install
 expo
   // Set 
-  setting
+  settin
     // Ad
     // other rules..
     // Enable its recommende
