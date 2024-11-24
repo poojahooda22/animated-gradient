@@ -19,6 +19,6 @@ expo
     // other rules..
     // Enable its recommended ru
     ...react.configs.recommende
-    ...react.configs['jsx-runti
+    ...react.configs['jsx-runt
   }
 ```
