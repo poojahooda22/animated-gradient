@@ -19,4 +19,4 @@ expo
     // other rules.
     // Enable its recommend
     ...react.configs.recommende
-    ...react.configs['
+    ...react.configs[
