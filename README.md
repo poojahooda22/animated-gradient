@@ -16,7 +16,7 @@ expo
   // Set 
   setti
     // A
-    // other rules.
+    // other rules
     // Enable its recomm
     ...react.configs.reomme
     ...react.configs[
