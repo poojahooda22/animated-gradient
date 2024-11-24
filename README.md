@@ -17,6 +17,6 @@ expo
   setting
     // Ad
     // other rules..
-    // Enable its recommended 
+    // Enable its recommended
     ...react.configs.recommende
     ...react.configs['js
