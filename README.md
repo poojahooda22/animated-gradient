@@ -18,5 +18,5 @@ expo
     // A
     // other rules
     // Enable its recomm
-    ...react.configs.reomme
+    ...react.configs.reomm
     ...react.configs[
