@@ -18,5 +18,5 @@ expo
     // Ad
     // other rules.
     // Enable its recomme
-    ...react.configs.recomme
+    ...react.configs.reomme
     ...react.configs[
