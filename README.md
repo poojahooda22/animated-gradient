@@ -19,6 +19,6 @@ expo
     // other rules..
     // Enable its recommended ru
     ...react.configs.recommende
-    ...react.configs['jsx-runt
+    ...react.configs['jsx-run
   }
 ```
