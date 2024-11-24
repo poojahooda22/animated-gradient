@@ -18,5 +18,5 @@ expo
     // Ad
     // other rules.
     // Enable its recommen
-    ...react.configs.recommende
+    ...react.configs.recommend
     ...react.configs[
