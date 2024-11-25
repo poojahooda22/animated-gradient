@@ -13,6 +13,6 @@ export default tsesl
     // oth
 - Inst
     // othe
-    // Enable
+    // Enabl
     ...react.config
     ...react.config
