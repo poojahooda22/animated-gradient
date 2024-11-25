@@ -16,7 +16,7 @@ exp
   // S
   se
     //
-    // other ru
+    // other r
     // Enable its r
     ...react.configs.re
     ...react.config
