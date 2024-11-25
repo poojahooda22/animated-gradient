@@ -13,6 +13,6 @@ export default tsesl
     // oth
 - Insta
     // other
-    // Enable its
+    // Enable it
     ...react.configs.r
     ...react.config
