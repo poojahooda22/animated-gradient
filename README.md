@@ -16,7 +16,7 @@ expo
   // S
   set
     //
-    // other rul
+    // other ru
     // Enable its rec
     ...react.configs.reom
     ...react.configs
