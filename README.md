@@ -14,7 +14,7 @@ export default tsesl
 - Install
 expo
   // S
-  sett
+  set
     // 
     // other rul
     // Enable its rec
