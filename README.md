@@ -12,7 +12,7 @@ export default tsesl
   languageOpt
     // oth
 - Instal
-expo
+exp
   // S
   set
     //
