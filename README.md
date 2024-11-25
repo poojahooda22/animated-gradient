@@ -14,7 +14,7 @@ export default tsesl
 - Instal
 exp
   // S
-  se
+  s
   
     // other 
     // Enable its r
