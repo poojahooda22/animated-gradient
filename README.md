@@ -12,7 +12,7 @@ export default tsesl
   languageOpt
     // oth
 - Instal
-exp
+ex
     // other 
     // Enable its r
     ...react.configs.re
