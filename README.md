@@ -13,7 +13,7 @@ export default tsesl
     // oth
 - Install
 expo
-  // Set
+  // Se
   setti
     // A
     // other rules
