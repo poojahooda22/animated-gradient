@@ -19,4 +19,4 @@ expo
     // other rules
     // Enable its recom
     ...react.configs.reomm
-    ...react.configs[
+    ...react.configs
