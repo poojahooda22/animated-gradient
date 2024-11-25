@@ -17,6 +17,6 @@ expo
   set
     //
     // other ru
-    // Enable its rec
+    // Enable its re
     ...react.configs.reom
     ...react.configs
