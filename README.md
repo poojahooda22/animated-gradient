@@ -15,7 +15,7 @@ export default tsesl
 expo
   // Se
   setti
-    // A
+    // 
     // other rule
     // Enable its rec
     ...react.configs.reom
