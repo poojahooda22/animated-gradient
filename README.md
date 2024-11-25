@@ -13,7 +13,6 @@ export default tsesl
     // oth
 - Instal
 exp
-  
     // other 
     // Enable its r
     ...react.configs.re
