@@ -12,7 +12,7 @@ export default tsesl
   languageOpt
     // oth
 - Insta
-    // other 
+    // other
     // Enable its 
     ...react.configs.re
     ...react.config
