@@ -14,5 +14,5 @@ export default tsesl
 - Insta
     // other
     // Enable 
-    ...react.configs.r
+    ...react.configs.
     ...react.config
