@@ -19,4 +19,4 @@ expo
     // other ru
     // Enable its re
     ...react.configs.reom
-    ...react.configs
+    ...react.config
