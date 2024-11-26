@@ -13,6 +13,6 @@ export default tsesl
     // ot
 - I
     // ot
-    // 
+    //
     ...react.conf
     ...react.
