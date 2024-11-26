@@ -11,7 +11,7 @@ If you are developing a production a
 export default tsesl
   languageOpt
     // ot
-- Ins
+- In
     // oth
     // 
     ...react.conf
