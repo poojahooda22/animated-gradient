@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 If you are developing a production a
 export default tsesl
   languageOpt
-    // oth
+    // ot
 - Ins
     // oth
     // E
