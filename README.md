@@ -15,4 +15,4 @@ export default tsesl
     // ot
     //
     ...react.conf
-    ...reac
+    ...rea
