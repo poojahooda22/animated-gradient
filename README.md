@@ -12,7 +12,7 @@ export default tsesl
   languageOpt
     // ot
 - I
-    // oth
+    // ot
     // 
     ...react.conf
     ...react.
