@@ -13,6 +13,6 @@ export default tsesl
     // oth
 - Ins
     // oth
-    // Ena
+    // En
     ...react.confi
     ...react.con
