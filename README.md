@@ -14,5 +14,5 @@ export default tsesl
 - I
     // ot
     //
-    ...react.conf
+    ...react.con
     ...rea
