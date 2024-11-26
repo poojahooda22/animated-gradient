@@ -12,7 +12,7 @@ export default tsesl
   languageOpt
     // oth
 - Inst
-    // othe
+    // oth
     // Enabl
     ...react.config
     ...react.config
