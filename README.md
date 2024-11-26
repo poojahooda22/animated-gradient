@@ -15,4 +15,4 @@ export default tsesl
     // oth
     // Ena
     ...react.confi
-    ...react.conf
+    ...react.con
