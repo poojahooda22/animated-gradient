@@ -10,4 +10,3 @@ Currently, two official plugins are available:
 If you are developing a productio
 export default tses
   languageO
-
