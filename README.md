@@ -14,4 +14,4 @@ export default tsesl
 - I
     // ot
     //
-    ...react
+    ...reac
