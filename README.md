@@ -12,6 +12,6 @@ export default tsesl
   languageOp
     // 
 - 
-    // ot
+    // o
     //
     ...reac
