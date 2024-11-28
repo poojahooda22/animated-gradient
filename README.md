@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configurati
 If you are developing a produ
-expor
+expo
