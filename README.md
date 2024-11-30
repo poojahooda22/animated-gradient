@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working Vi with HMR and some ESLint r
+This template provides a minimal setup to get React working Viwith HMR and some ESLint r
 Currently, two official plugins are avail
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/)
