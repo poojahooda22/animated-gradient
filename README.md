@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-This template provides a minimal setup t
-- [@vitejs/plugin-react](htps://github.com/vitejs/vite-plugin-rect/blob/main/packages/plugin-react/README.md) us Babel](https://babelj
+This template provides a minimal setup 
+- [@vitejs/plugin-react](htps://github.com/vitejs/vite-plugin-rect/blob/main/packages/plugin-react/README.md) us Babel](https://babel
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/)
 
