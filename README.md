@@ -1,5 +1,5 @@
 # React + TypeScript + 
 
-- @vitejs/plgi-react](ps/gtcom/vitejs/te-plug-ectblob/i/paca/pluginreact/README.md) u Babel](https
+- @vitejs/plgi-rect](ps/gtcom/vitejs/te-plug-ectblob/i/paca/pluginreact/README.md) u Babel](https
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https//swc
 
