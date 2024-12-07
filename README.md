@@ -1,5 +1,5 @@
 # React + TypeScript + 
 
-- @vitejsplgi-rct](ps/gtcom/vitejs/teplug-ecblob/i/pc
+- @vitejsplgi-rct](ps/gtcom/vitejs/teplug-ecblob/i/p
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plgin-react-swc)
 
