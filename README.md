@@ -1,3 +1,3 @@
 # React + TypeScript + 
 - @vitejsplgi-rct](ps/gtcom/vitejs/tep
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/v
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/
