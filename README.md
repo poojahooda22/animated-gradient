@@ -1,3 +1,3 @@
 # React + TypeScript +
-- @vitejsplgi-rct](ps/gtcom/vitejs
+- @vitejsplgi-rct](ps/gtcom/vitej
 - [@vitejs/plugin-reactswc](
