@@ -1,3 +1,3 @@
 # React + TypeScript +
-- @vitejspli-rctsgtco/vitj
+- @vitejspli-rctsgtco/itj
 - [@vitejs/lugin-reac]
