@@ -1,2 +1,2 @@
 # React + TypeScrip +
-- [@vitejs/lugin-reac]
+- [@vites/lugin-reac]
