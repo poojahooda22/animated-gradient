@@ -1,3 +1,3 @@
 # React + TypeScript +
 - @vitejsplgi-rct(s/gtcom/vitej
-- [@vitejs/plugin-reacs]
+- [@vitejs/lugin-reacs]
