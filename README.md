@@ -1,2 +1,2 @@
-# React + TypeS
+# React + Type
 - [@vite
