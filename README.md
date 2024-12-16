@@ -1,2 +1,2 @@
 # React + TypeS
-- [@vites/
+- [@vites
