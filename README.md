@@ -1,2 +1,2 @@
-# React + TypeScr
+# React + TypeSc
 - [@vites/lugi
