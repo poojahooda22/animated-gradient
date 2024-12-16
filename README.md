@@ -1,2 +1,2 @@
-# React + TypeScrp +
+# React + TypeScrp 
 - [@vites/lugin
