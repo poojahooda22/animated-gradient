@@ -1,2 +1,2 @@
-# React + Type
+# React +Type
 - [@vit
